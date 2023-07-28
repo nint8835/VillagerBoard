@@ -1,0 +1,4 @@
+name: VillagerBoard
+version: ${version}
+main: technology.bootleg.villagerboard.VillagerBoardPlugin
+api-version: '1.20'
